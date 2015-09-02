@@ -7,4 +7,4 @@ echo "<pre>";
 
 // Test sdfgd sdgfsd
 
-// Testing Types. Retesting :)sdfg
+// Testing Types. with new preg_match.
