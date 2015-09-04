@@ -1,3 +1,3 @@
 <?php
 
-// Testing Branches :)
+// Testing Branches :) New test for 7.x.
