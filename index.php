@@ -1,10 +1,3 @@
 <?php
 
-echo 'test';
-
-echo "<pre>";
-// New 
-
-// Test sdfgd sdgfsd
-
-// Multi Line
+// Testing master
