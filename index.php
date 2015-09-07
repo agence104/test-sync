@@ -1,3 +1,2 @@
 <?php
-
-echo "test";
+// Fixed Bug With Pagination.
